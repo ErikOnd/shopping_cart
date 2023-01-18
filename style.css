@@ -1,8 +1,24 @@
 .book-img {
-    max-height: 500px;
+    max-height: 600px;
     object-fit: cover;
 }
 
-.green-bg{
+.green-bg {
     background-color: #83f28f;
+}
+
+i {
+    font-size: 50px;
+    cursor: pointer;
+    position: relative;
+}
+
+#itemCounter {
+    position: absolute;
+    font-size: 20px;
+    font-weight: 600;
+    color: lightcoral;
+    top: 21px;
+    right: 16px;
+
 }
