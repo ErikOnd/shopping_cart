@@ -1,0 +1,8 @@
+.book-img {
+    max-height: 500px;
+    object-fit: cover;
+}
+
+.green-bg{
+    background-color: #83f28f;
+}
